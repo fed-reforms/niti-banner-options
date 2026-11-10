@@ -1,9 +1,9 @@
 # NITI home page banner options
 
-A mock-up of the NITI Aayog home page slider with 16 proposed banners for the Reform Tracker, shown after NITI's current banner.
+A mock-up of the NITI Aayog home page slider with 14 proposed banners for the Reform Tracker, shown after NITI's current banner.
 
-- Banners 1 to 5 carry the Prime Minister's own words, matched against the official English texts on pmindia.gov.in and narendramodi.in. Each shows its source link under the slider.
-- Banners 6 to 16 are headline banners.
+- Banners 1 to 4 carry the Prime Minister's own words, matched against the official English texts on pmindia.gov.in and narendramodi.in. Each shows its source link under the slider.
+- Banners 5 to 14 are headline banners.
 - Works on desktop and phones. On a phone each banner switches to a stacked layout, and you can swipe between banners.
 - One self-contained file: photos are built in; fonts load from Google Fonts.
 
